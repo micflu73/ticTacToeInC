@@ -1,0 +1,3 @@
+C:/Users/Koala/CLionProjects/broCode/ticTocGame/cmake-build-debug/CMakeFiles/broCode.dir
+C:/Users/Koala/CLionProjects/broCode/ticTocGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Koala/CLionProjects/broCode/ticTocGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
